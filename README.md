@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="github-header.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="github-header-image (4).png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today I work as a <strong>Data Analyst</strong> at one of the largest banks in Latin America and I am focused on migrating to backend development.</p>&nbsp;

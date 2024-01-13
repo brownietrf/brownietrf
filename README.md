@@ -5,7 +5,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=brownietrf&theme=ocean_dark&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=brownietrf&show_icons=true&theme=ocean_dark&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-seven-mu-57.vercel.app/api/top-langs/?username=brownietrf&show_icons=true&theme=ocean_dark&layout=compact" />
  </div>
  
  &nbsp;

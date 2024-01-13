@@ -4,8 +4,8 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today I work as a <strong>Data Analyst</strong> at one of the largest banks in Latin America and I am focused on migrating to backend development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=brownietrf&theme=ocean_dark&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=brownietrf&show_icons=true&theme=ocean_dark&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=brownietrf&theme=rose_pine&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=brownietrf&show_icons=true&theme=rose_pine&layout=compact" />
  </div>
  
  &nbsp;
